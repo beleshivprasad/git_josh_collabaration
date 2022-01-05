@@ -1,3 +1,13 @@
 command for decorating git log
 
 git log --decorate --graph --all --oneline
+
+
+
+command to create a alias in git
+
+1) if you are on vscode then
+    code ~/.gitconfig
+2) then write the following command
+    [alias]
+        plog  = --all --decorate --graph --oneline
