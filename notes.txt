@@ -1,0 +1,3 @@
+command for decorating git log
+
+git log --decorate --graph --all --oneline
